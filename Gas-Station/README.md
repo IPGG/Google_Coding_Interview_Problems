@@ -1,4 +1,4 @@
-####Task for the GAS STATION problem is:\
+####Task for the GAS STATION problem is:
 \
 Given two integer arrays A and B of size N.\
 There are N gas stations along a circular route, where the amount of gas at station i is A[i].\
